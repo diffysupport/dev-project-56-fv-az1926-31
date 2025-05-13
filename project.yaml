@@ -1,7 +1,7 @@
 basic:
-    name: McKenzie-Roob
+    name: 'Huel Ltd'
     environments:
-        production: 'https://olson.biz/dolore-itaque-provident-enim.html'
+        production: 'https://www.becker.biz/quia-fugiat-ut-accusantium-numquam-aperiam-sit'
         staging: ''
         development: ''
     breakpoints:
